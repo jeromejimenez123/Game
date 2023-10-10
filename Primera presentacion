@@ -1,1 +1,1 @@
-creación de lógica de disparo del arma que permita limitar la cantidad de disparos y permitir la recarga del arma. El usuario solo deberá poder realizar un máximo de 10 disparos, no pudiendo realizar mas hasta que este presione la tecla r (recarga) para permitirle realizar otros 10 disparos.
+
